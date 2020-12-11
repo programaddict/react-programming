@@ -20,7 +20,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: calc(13px + 2vmin);
+    font-size: 30px;
     color: white;
 }
 
